@@ -20,4 +20,4 @@ COPY requirements.txt /app/
 RUN pip install --no-cache-dir -r requirements.txt
 COPY . /app
 
-CMD ["python3 mohio.py"]
+CMD ["python3 mohoe.py"]
