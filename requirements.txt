@@ -22,3 +22,8 @@ cryptography
 logging
 tempfile
 pyOpenSSL
+flask
+flask-jwt-extended
+functools
+brotli
+pyOpenSSL
